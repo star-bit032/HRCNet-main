@@ -1,7 +1,7 @@
 # HRCNet: Retinex-Guided Center-Blind Context Reconstruction Network for Hyperspectral Underwater Target Anomaly Detection
 
 
- ## Framework
+ ## HRCNet Framework
 
  ![HRCNet Framework](figure/framework.png)
  
